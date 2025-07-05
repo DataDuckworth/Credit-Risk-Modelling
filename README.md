@@ -8,7 +8,7 @@ Credit Risk Modelling is the process of predicting the likelihood that a borrowe
 
 - Develop a binary classification model to predict the likelihood of customer default.
 - Perform Exploratory Data Analysis (EDA) to understand key drivers of credit risk.
-- Use statistical and machine learning techniques (e.g., Logistic Regression, XGBoost).
+- Use statistical and machine learning techniques (Logistic Regression).
 - Evaluate model performance using appropriate metrics like AUC-ROC, Gini, KS Statistic.
 
 ## 📁 Project Structure
@@ -16,7 +16,7 @@ Credit Risk Modelling is the process of predicting the likelihood that a borrowe
 
 ## 🛠️ Tools & Technologies
 
-- **Programming:** Python 3.x
+- **Programming:** Python 3.12.4
 - **Libraries:** pandas, numpy, scikit-learn, matplotlib, seaborn, xgboost, imbalanced-learn
 - **Version Control:** Git
 - **IDE/Notebook:** Jupyter Notebook, VSCode
